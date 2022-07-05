@@ -1,0 +1,16 @@
+@import url("./footer.css");
+@import url("./mainContent.css");
+@import url("./name.css");
+@import url("./photo.css");
+@import url("./paragraph.css");
+@import url("./social.css");
+
+.App{
+  position: absolute;
+    width: 550px;
+    height: 868px;
+    left: 65px;
+    top: 53px;
+  
+    background: #23252C;
+}

@@ -1,0 +1,10 @@
+.photo {
+    position: absolute;
+    width: 317px;
+    height: 317px;
+    left: 116px;
+    top: 44px;
+
+    /* background: url(.png); */
+    border-radius: 10px 10px 0px 0px;
+}
